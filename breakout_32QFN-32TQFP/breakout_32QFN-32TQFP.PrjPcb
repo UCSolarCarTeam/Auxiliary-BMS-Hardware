@@ -140,6 +140,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCXMUFRH
 
+[Document7]
+DocumentPath=..\..\..\A4982_breakout\panel.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OYQVYFID
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for breakout_32QFN-32TQFP\Design Rule Check - breakout_32QFN-32TQFP.html
 DItemRevisionGUID=
