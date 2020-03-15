@@ -1,608 +1,66 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\House\Documents\SolarCar\Auxiliary-BMS-Hardware\Sources\Aux-BMS.PcbDoc
-Date     : 2020-02-29
-Time     : 5:22:33 PM
+PCB File : C:\Users\BEAST\Documents\SolarCar\Auxiliary-BMS-Hardware\Sources\Aux-BMS.PcbDoc
+Date     : 2020-03-14
+Time     : 4:37:57 PM
 
-ERROR : More than 500 violations detected, DRC was stopped
-
-WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
-   Polygon named: GND_PWR_TOP In net GND On Top Layer
-   Polygon named: 5V_L01_P092 In net 5V On Top Layer
-   Polygon named: NIMH_OUT_L01_P104 In net NIMH_OUT On Top Layer
-   Polygon named: NIMH_IN_L01_P100 In net NIMH_IN On Top Layer
-   Polygon named: GND_L01_P094 In net GND On Top Layer
-   Polygon named: 3V3_L01_P078 In net 3V3 On Top Layer
-   Polygon named: NETD4A_1_L01_P079 In net NetD4A_1 On Top Layer
-   Polygon named: 12V_CONTACTOR_L01_P083 In net 12V_CONTACTOR On Top Layer
-   Polygon named: NETD4B_1_L01_P080 In net NetD4B_1 On Top Layer
-   Polygon named: 12V_CONTACTOR_L01_P084 In net 12V_CONTACTOR On Top Layer
-   Polygon named: NETD4D_1_L01_P081 In net NetD4D_1 On Top Layer
-   Polygon named: 12V_CONTACTOR_L01_P085 In net 12V_CONTACTOR On Top Layer
-   Polygon named: 12V_CONTACTOR_L01_P086 In net 12V_CONTACTOR On Top Layer
-   Polygon named: NETD4C_1_L01_P082 In net NetD4C_1 On Top Layer
-   Polygon named: 12V_CONTACTOR_L01_P087 In net 12V_CONTACTOR On Top Layer
-   Polygon named: 12V_PWR_L01_P088 In net 12V_PWR On Top Layer
-   Polygon named: GND_L01_P098 In net GND On Top Layer
-   Polygon named: GND_PWR_BTM In net GND On Bottom Layer
-   Polygon named: GND_ISO_L02_P102 In net GND_ISO On Bottom Layer
-   Polygon named: NETD4A_1_L02_P072 In net NetD4A_1 On Bottom Layer
-   Polygon named: NETD4B_1_L02_P073 In net NetD4B_1 On Bottom Layer
-   Polygon named: NETD4D_1_L02_P074 In net NetD4D_1 On Bottom Layer
-   Polygon named: NETD4C_1_L02_P075 In net NetD4C_1 On Bottom Layer
-   Polygon named: GND_BTM In net GND On Bottom Layer
-   Polygon named: GND_PWR_TOP In net GND On Top Layer
-   Polygon named: GND_PWR_BTM In net GND On Bottom Layer
-
-Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Arc (75.45mm,36.2mm) on Top Layer And Pad P1D-1(74.641mm,33.906mm) on Multi-Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Arc (75.45mm,36.2mm) on Top Layer And Pad P1D-6(74.641mm,38.376mm) on Multi-Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Arc (83.085mm,34.625mm) on Bottom Layer And Pad P1C-(79.257mm,36.141mm) on Multi-Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Arc (83.085mm,34.625mm) on Bottom Layer And Pad P1C-2(89.671mm,33.906mm) on Multi-Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Arc (83.085mm,34.625mm) on Bottom Layer And Pad P1C-4(85.226mm,38.376mm) on Multi-Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Arc (83.085mm,34.625mm) on Top Layer And Pad P1C-(79.257mm,36.141mm) on Multi-Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Arc (83.085mm,34.625mm) on Top Layer And Pad P1C-2(89.671mm,33.906mm) on Multi-Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Arc (83.085mm,34.625mm) on Top Layer And Pad P1C-4(85.226mm,38.376mm) on Multi-Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad C130-1(95.975mm,39.03mm) on Top Layer And Pad P1C-6(94.116mm,38.376mm) on Multi-Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad C131-1(99.15mm,37.075mm) on Top Layer And Pad P1C-(100.085mm,36.141mm) on Multi-Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad C131-2(99.15mm,38.075mm) on Top Layer And Pad P1C-(100.085mm,36.141mm) on Multi-Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad C132-2(98.31mm,35.251mm) on Top Layer And Pad P1C-(100.085mm,36.141mm) on Multi-Layer 
-   Violation between Clearance Constraint: (0.116mm < 0.152mm) Between Pad C134-2(92.05mm,35.85mm) on Top Layer And Pad P1C-1(94.116mm,33.906mm) on Multi-Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad D116-2(75.2mm,33.875mm) on Top Layer And Pad P1D-1(74.641mm,33.906mm) on Multi-Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad H3-(83.085mm,34.625mm) on Multi-Layer And Pad P1C-3(85.226mm,33.906mm) on Multi-Layer 
-   Violation between Clearance Constraint: (0.045mm < 0.152mm) Between Pad H3-(83.085mm,34.625mm) on Multi-Layer And Pad P1C-4(85.226mm,38.376mm) on Multi-Layer 
-   Violation between Clearance Constraint: (0.047mm < 0.152mm) Between Pad P104-1(72.36mm,31.9mm) on Multi-Layer And Pad P1D-1(74.641mm,33.906mm) on Multi-Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Pad U106-5(100.5mm,33.975mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Pad U111-1(100.476mm,38.05mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Pad U111-2(100.476mm,37.1mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Pad U111-3(100.476mm,36.15mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (100.476mm,38.05mm)(101.425mm,38.05mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (100.5mm,34.025mm)(101.8mm,35.325mm) on Top Layer 
-   Violation between Clearance Constraint: (0.113mm < 0.152mm) Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (101.425mm,38.05mm)(101.8mm,37.675mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (101.8mm,35.325mm)(101.8mm,37.675mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (101.8mm,35.325mm)(103.025mm,35.325mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (96.951mm,36.15mm)(100.476mm,36.15mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (98.025mm,37.1mm)(99.15mm,37.1mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (98.31mm,35.301mm)(99.224mm,35.301mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (98.405mm,38.05mm)(99.1mm,38.05mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (99.15mm,37.1mm)(100.476mm,37.1mm) on Top Layer 
-   Violation between Clearance Constraint: (0.073mm < 0.152mm) Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (99.1mm,38.03mm)(99.1mm,38.05mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (99.1mm,38.05mm)(100.476mm,38.05mm) on Top Layer 
-   Violation between Clearance Constraint: (0.09mm < 0.152mm) Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (99.1mm,38.05mm)(99.1mm,39.65mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (99.224mm,35.301mm)(100.5mm,34.025mm) on Top Layer 
-   Violation between Clearance Constraint: (0.042mm < 0.152mm) Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Via (98.025mm,37.1mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.045mm < 0.152mm) Between Pad P1C-1(94.116mm,33.906mm) on Multi-Layer And Pad R130-2(93.951mm,35.825mm) on Top Layer 
-   Violation between Clearance Constraint: (0.02mm < 0.152mm) Between Pad P1C-1(94.116mm,33.906mm) on Multi-Layer And Pad R132-2(95.851mm,35.8mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-1(94.116mm,33.906mm) on Multi-Layer And Pad U109-4(95.96mm,33.16mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-1(94.116mm,33.906mm) on Multi-Layer And Track (90.15mm,34.925mm)(92.487mm,32.588mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-1(94.116mm,33.906mm) on Multi-Layer And Track (90.875mm,34.775mm)(92.894mm,32.756mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-1(94.116mm,33.906mm) on Multi-Layer And Track (91.281mm,34.943mm)(93.064mm,33.16mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-1(94.116mm,33.906mm) on Multi-Layer And Track (92.487mm,30.262mm)(92.487mm,32.588mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-1(94.116mm,33.906mm) on Multi-Layer And Track (92.894mm,30.094mm)(92.894mm,32.756mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-1(94.116mm,33.906mm) on Multi-Layer And Track (93.064mm,33.16mm)(95.96mm,33.16mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-1(94.116mm,33.906mm) on Multi-Layer And Track (93.3mm,32.05mm)(93.8mm,32.55mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-1(94.116mm,33.906mm) on Multi-Layer And Track (93.8mm,32.55mm)(96.775mm,32.55mm) on Top Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.152mm) Between Pad P1C-2(89.671mm,33.906mm) on Multi-Layer And Pad R128-2(90.15mm,35.829mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-2(89.671mm,33.906mm) on Multi-Layer And Pad U109-5(90.31mm,33.16mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-2(89.671mm,33.906mm) on Multi-Layer And Track (89.875mm,33.16mm)(89.875mm,34mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-2(89.671mm,33.906mm) on Multi-Layer And Track (89.875mm,33.16mm)(90.31mm,33.16mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-2(89.671mm,33.906mm) on Multi-Layer And Track (90.15mm,34.925mm)(90.15mm,35.779mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-2(89.671mm,33.906mm) on Multi-Layer And Track (90.15mm,34.925mm)(92.487mm,32.588mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-2(89.671mm,33.906mm) on Multi-Layer And Track (90.875mm,34.775mm)(90.875mm,35.359mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-2(89.671mm,33.906mm) on Multi-Layer And Track (90.875mm,34.775mm)(92.894mm,32.756mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-2(89.671mm,33.906mm) on Multi-Layer And Via (89.875mm,34mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-5(89.671mm,38.376mm) on Multi-Layer And Pad R128-1(90.15mm,37.229mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-5(89.671mm,38.376mm) on Multi-Layer And Pad R129-1(90.175mm,38.575mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-5(89.671mm,38.376mm) on Multi-Layer And Pad R129-2(88.775mm,38.575mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-5(89.671mm,38.376mm) on Multi-Layer And Track (88.775mm,37.325mm)(88.775mm,38.575mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-5(89.671mm,38.376mm) on Multi-Layer And Track (88.775mm,37.325mm)(89.55mm,36.55mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-5(89.671mm,38.376mm) on Multi-Layer And Track (90.15mm,37.229mm)(90.15mm,38.55mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-5(89.671mm,38.376mm) on Multi-Layer And Track (90.15mm,37mm)(90.925mm,37mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-5(89.671mm,38.376mm) on Multi-Layer And Track (90.15mm,38.55mm)(90.175mm,38.575mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-6(94.116mm,38.376mm) on Multi-Layer And Pad R130-1(93.951mm,37.225mm) on Top Layer 
-   Violation between Clearance Constraint: (0.003mm < 0.152mm) Between Pad P1C-6(94.116mm,38.376mm) on Multi-Layer And Pad R132-1(95.851mm,37.2mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-6(94.116mm,38.376mm) on Multi-Layer And Track (92.075mm,37.275mm)(93.951mm,37.275mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-6(94.116mm,38.376mm) on Multi-Layer And Track (93.951mm,37.275mm)(93.951mm,38.276mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-6(94.116mm,38.376mm) on Multi-Layer And Track (93.951mm,38.276mm)(94.3mm,38.625mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-6(94.116mm,38.376mm) on Multi-Layer And Track (94.3mm,38.625mm)(94.705mm,39.03mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-6(94.116mm,38.376mm) on Multi-Layer And Track (94.705mm,39.03mm)(95.925mm,39.03mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1C-6(94.116mm,38.376mm) on Multi-Layer And Via (94.3mm,38.625mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1D-1(74.641mm,33.906mm) on Multi-Layer And Track (72.36mm,31.9mm)(74.335mm,33.875mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad P1D-1(74.641mm,33.906mm) on Multi-Layer And Track (74.335mm,33.875mm)(75.2mm,33.875mm) on Top Layer 
-Rule Violations :74
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-   Violation between Short-Circuit Constraint: Between Pad C130-1(95.975mm,39.03mm) on Top Layer And Pad P1C-6(94.116mm,38.376mm) on Multi-Layer Location : [X = 95.626mm][Y = 38.588mm]
-   Violation between Short-Circuit Constraint: Between Pad C131-1(99.15mm,37.075mm) on Top Layer And Pad P1C-(100.085mm,36.141mm) on Multi-Layer Location : [X = 99.15mm][Y = 37.075mm]
-   Violation between Short-Circuit Constraint: Between Pad C131-2(99.15mm,38.075mm) on Top Layer And Pad P1C-(100.085mm,36.141mm) on Multi-Layer Location : [X = 99.251mm][Y = 37.871mm]
-   Violation between Short-Circuit Constraint: Between Pad C132-2(98.31mm,35.251mm) on Top Layer And Pad P1C-(100.085mm,36.141mm) on Multi-Layer Location : [X = 98.496mm][Y = 35.251mm]
-   Violation between Short-Circuit Constraint: Between Pad D116-2(75.2mm,33.875mm) on Top Layer And Pad P1D-1(74.641mm,33.906mm) on Multi-Layer Location : [X = 75.2mm][Y = 33.875mm]
-   Violation between Short-Circuit Constraint: Between Pad H3-(83.085mm,34.625mm) on Multi-Layer And Pad P1C-3(85.226mm,33.906mm) on Multi-Layer Location : [X = 84.768mm][Y = 33.942mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Pad U106-5(100.5mm,33.975mm) on Top Layer Location : [X = 100.5mm][Y = 34.357mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Pad U111-1(100.476mm,38.05mm) on Top Layer Location : [X = 100.476mm][Y = 37.912mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Pad U111-2(100.476mm,37.1mm) on Top Layer Location : [X = 100.476mm][Y = 37.1mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Pad U111-3(100.476mm,36.15mm) on Top Layer Location : [X = 100.476mm][Y = 36.15mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (100.476mm,38.05mm)(101.425mm,38.05mm) on Top Layer Location : [X = 100.653mm][Y = 37.93mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (100.5mm,34.025mm)(101.8mm,35.325mm) on Top Layer Location : [X = 101.131mm][Y = 34.904mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (101.8mm,35.325mm)(101.8mm,37.675mm) on Top Layer Location : [X = 101.781mm][Y = 36.247mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (101.8mm,35.325mm)(103.025mm,35.325mm) on Top Layer Location : [X = 101.738mm][Y = 35.335mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (96.951mm,36.15mm)(100.476mm,36.15mm) on Top Layer Location : [X = 99.378mm][Y = 36.15mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (98.025mm,37.1mm)(99.15mm,37.1mm) on Top Layer Location : [X = 98.847mm][Y = 37.1mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (98.31mm,35.301mm)(99.224mm,35.301mm) on Top Layer Location : [X = 98.864mm][Y = 35.301mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (98.405mm,38.05mm)(99.1mm,38.05mm) on Top Layer Location : [X = 99.199mm][Y = 37.852mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (99.15mm,37.1mm)(100.476mm,37.1mm) on Top Layer Location : [X = 99.813mm][Y = 37.1mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (99.1mm,38.05mm)(100.476mm,38.05mm) on Top Layer Location : [X = 99.902mm][Y = 37.934mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-(100.085mm,36.141mm) on Multi-Layer And Track (99.224mm,35.301mm)(100.5mm,34.025mm) on Top Layer Location : [X = 99.787mm][Y = 34.882mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-1(94.116mm,33.906mm) on Multi-Layer And Pad U109-4(95.96mm,33.16mm) on Top Layer Location : [X = 95.386mm][Y = 33.16mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-1(94.116mm,33.906mm) on Multi-Layer And Track (90.15mm,34.925mm)(92.487mm,32.588mm) on Top Layer Location : [X = 92.604mm][Y = 32.588mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-1(94.116mm,33.906mm) on Multi-Layer And Track (90.875mm,34.775mm)(92.894mm,32.756mm) on Top Layer Location : [X = 92.808mm][Y = 32.934mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-1(94.116mm,33.906mm) on Multi-Layer And Track (91.281mm,34.943mm)(93.064mm,33.16mm) on Top Layer Location : [X = 92.893mm][Y = 33.423mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-1(94.116mm,33.906mm) on Multi-Layer And Track (92.487mm,30.262mm)(92.487mm,32.588mm) on Top Layer Location : [X = 92.604mm][Y = 32.521mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-1(94.116mm,33.906mm) on Multi-Layer And Track (92.894mm,30.094mm)(92.894mm,32.756mm) on Top Layer Location : [X = 92.894mm][Y = 32.634mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-1(94.116mm,33.906mm) on Multi-Layer And Track (93.064mm,33.16mm)(95.96mm,33.16mm) on Top Layer Location : [X = 94.287mm][Y = 33.16mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-1(94.116mm,33.906mm) on Multi-Layer And Track (93.3mm,32.05mm)(93.8mm,32.55mm) on Top Layer Location : [X = 93.689mm][Y = 32.531mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-1(94.116mm,33.906mm) on Multi-Layer And Track (93.8mm,32.55mm)(96.775mm,32.55mm) on Top Layer Location : [X = 94.655mm][Y = 32.55mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-2(89.671mm,33.906mm) on Multi-Layer And Pad U109-5(90.31mm,33.16mm) on Top Layer Location : [X = 90.284mm][Y = 33.16mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-2(89.671mm,33.906mm) on Multi-Layer And Track (89.875mm,33.16mm)(89.875mm,34mm) on Top Layer Location : [X = 89.875mm][Y = 33.58mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-2(89.671mm,33.906mm) on Multi-Layer And Track (89.875mm,33.16mm)(90.31mm,33.16mm) on Top Layer Location : [X = 90.093mm][Y = 33.16mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-2(89.671mm,33.906mm) on Multi-Layer And Track (90.15mm,34.925mm)(90.15mm,35.779mm) on Top Layer Location : [X = 90.15mm][Y = 35.093mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-2(89.671mm,33.906mm) on Multi-Layer And Track (90.15mm,34.925mm)(92.487mm,32.588mm) on Top Layer Location : [X = 90.609mm][Y = 34.382mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-2(89.671mm,33.906mm) on Multi-Layer And Track (90.875mm,34.775mm)(90.875mm,35.359mm) on Top Layer Location : [X = 90.86mm][Y = 34.817mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-2(89.671mm,33.906mm) on Multi-Layer And Track (90.875mm,34.775mm)(92.894mm,32.756mm) on Top Layer Location : [X = 90.94mm][Y = 34.614mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-2(89.671mm,33.906mm) on Multi-Layer And Via (89.875mm,34mm) from Top Layer to Bottom Layer Location : [X = 89.875mm][Y = 34mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-5(89.671mm,38.376mm) on Multi-Layer And Pad R128-1(90.15mm,37.229mm) on Top Layer Location : [X = 90.15mm][Y = 37.229mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-5(89.671mm,38.376mm) on Multi-Layer And Pad R129-1(90.175mm,38.575mm) on Top Layer Location : [X = 90.175mm][Y = 38.575mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-5(89.671mm,38.376mm) on Multi-Layer And Pad R129-2(88.775mm,38.575mm) on Top Layer Location : [X = 88.775mm][Y = 38.575mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-5(89.671mm,38.376mm) on Multi-Layer And Track (88.775mm,37.325mm)(88.775mm,38.575mm) on Top Layer Location : [X = 88.775mm][Y = 37.95mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-5(89.671mm,38.376mm) on Multi-Layer And Track (88.775mm,37.325mm)(89.55mm,36.55mm) on Top Layer Location : [X = 89.027mm][Y = 37.165mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-5(89.671mm,38.376mm) on Multi-Layer And Track (90.15mm,37.229mm)(90.15mm,38.55mm) on Top Layer Location : [X = 90.15mm][Y = 37.89mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-5(89.671mm,38.376mm) on Multi-Layer And Track (90.15mm,37mm)(90.925mm,37mm) on Top Layer Location : [X = 90.284mm][Y = 37.017mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-5(89.671mm,38.376mm) on Multi-Layer And Track (90.15mm,38.55mm)(90.175mm,38.575mm) on Top Layer Location : [X = 90.163mm][Y = 38.562mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-6(94.116mm,38.376mm) on Multi-Layer And Pad R130-1(93.951mm,37.225mm) on Top Layer Location : [X = 93.951mm][Y = 37.225mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-6(94.116mm,38.376mm) on Multi-Layer And Track (92.075mm,37.275mm)(93.951mm,37.275mm) on Top Layer Location : [X = 93.527mm][Y = 37.275mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-6(94.116mm,38.376mm) on Multi-Layer And Track (93.951mm,37.275mm)(93.951mm,38.276mm) on Top Layer Location : [X = 93.951mm][Y = 37.775mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-6(94.116mm,38.376mm) on Multi-Layer And Track (93.951mm,38.276mm)(94.3mm,38.625mm) on Top Layer Location : [X = 94.125mm][Y = 38.45mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-6(94.116mm,38.376mm) on Multi-Layer And Track (94.3mm,38.625mm)(94.705mm,39.03mm) on Top Layer Location : [X = 94.502mm][Y = 38.827mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-6(94.116mm,38.376mm) on Multi-Layer And Track (94.705mm,39.03mm)(95.925mm,39.03mm) on Top Layer Location : [X = 95.018mm][Y = 39.03mm]
-   Violation between Short-Circuit Constraint: Between Pad P1C-6(94.116mm,38.376mm) on Multi-Layer And Via (94.3mm,38.625mm) from Top Layer to Bottom Layer Location : [X = 94.3mm][Y = 38.625mm]
-   Violation between Short-Circuit Constraint: Between Pad P1D-1(74.641mm,33.906mm) on Multi-Layer And Track (72.36mm,31.9mm)(74.335mm,33.875mm) on Top Layer Location : [X = 74.045mm][Y = 33.447mm]
-   Violation between Short-Circuit Constraint: Between Pad P1D-1(74.641mm,33.906mm) on Multi-Layer And Track (74.335mm,33.875mm)(75.2mm,33.875mm) on Top Layer Location : [X = 74.768mm][Y = 33.875mm]
-Rule Violations :55
+Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net NetD4A_1 Between Pad P1A-2(179.136mm,72.865mm) on Multi-Layer And Pad P1A-1(183.581mm,72.865mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net NetD4A_1 Between Via (127.5mm,59.5mm) from Top Layer to Bottom Layer And Pad P1A-2(179.136mm,72.865mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad P1A-3(174.691mm,72.865mm) on Multi-Layer And Pad P1A-4(174.691mm,77.335mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad P1A-3(174.691mm,72.865mm) on Multi-Layer And Pad P1B-4(176.885mm,28.075mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad P1A-4(174.691mm,77.335mm) on Multi-Layer And Pad P1A-6(183.581mm,77.335mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Via (139.95mm,77.606mm) from Top Layer to Bottom Layer And Pad P1A-4(174.691mm,77.335mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net NetD3A_1 Between Track (130.416mm,56.755mm)(130.416mm,58.445mm) on Top Layer And Pad P1A-5(179.136mm,77.335mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net NetD4B_1 Between Pad P1B-2(181.33mm,23.605mm) on Multi-Layer And Pad P1B-1(185.775mm,23.605mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net NetD4B_1 Between Via (108.8mm,52.7mm) from Top Layer to Bottom Layer And Pad P1B-2(181.33mm,23.605mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad P1B-3(176.885mm,23.605mm) on Multi-Layer And Pad P1B-4(176.885mm,28.075mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad P1B-4(176.885mm,28.075mm) on Multi-Layer And Pad P1B-6(185.775mm,28.075mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net NetD3B_1 Between Track (109.4mm,44.255mm)(109.4mm,46.275mm) on Top Layer And Pad P1B-5(181.33mm,28.075mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net NetD4C_1 Between Pad P1C-2(89.671mm,33.906mm) on Multi-Layer And Pad P1C-1(94.116mm,33.906mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net NetD4C_1 Between Via (88.4mm,52.7mm) from Top Layer to Bottom Layer And Pad P1C-2(89.671mm,33.906mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad P1C-3(85.226mm,33.906mm) on Multi-Layer And Pad P1C-4(85.226mm,38.376mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Via (85mm,42.5mm) from Top Layer to Bottom Layer And Pad P1C-4(85.226mm,38.376mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net NetD3C_1 Between Pad P1C-5(89.671mm,38.376mm) on Multi-Layer And Track (89.925mm,44.255mm)(89.925mm,46.275mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Via (92.5mm,42.5mm) from Top Layer to Bottom Layer And Pad P1C-6(94.116mm,38.376mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net NetD4D_1 Between Pad P1D-2(70.196mm,33.906mm) on Multi-Layer And Pad P1D-1(74.641mm,33.906mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net NetD4D_1 Between Via (69.7mm,52.7mm) from Top Layer to Bottom Layer And Pad P1D-2(70.196mm,33.906mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad P1D-3(65.751mm,33.906mm) on Multi-Layer And Pad P1D-4(65.751mm,38.376mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Via (65mm,42.5mm) from Top Layer to Bottom Layer And Pad P1D-4(65.751mm,38.376mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net NetD3D_1 Between Pad P1D-5(70.196mm,38.376mm) on Multi-Layer And Track (70.45mm,44.255mm)(70.45mm,46.275mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad P1D-6(74.641mm,38.376mm) on Multi-Layer And Via (75mm,42.5mm) from Top Layer to Bottom Layer 
-Rule Violations :24
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.152mm) (Max=12.7mm) (Preferred=0.254mm) (All)
+Processing Rule : Width Constraint (Min=6mil) (Max=500mil) (Preferred=10mil) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Minimum Annular Ring (Minimum=0.15mm) (All)
+Processing Rule : Minimum Annular Ring (Minimum=5.906mil) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=6.3mm) (All)
+Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=248.031mil) (All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=0.45mm) (All),(All)
-   Violation between Hole To Hole Clearance Constraint: (0.16mm < 0.45mm) Between Pad H3-(83.085mm,34.625mm) on Multi-Layer And Pad P1C-(79.257mm,36.141mm) on Multi-Layer 
-   Violation between Hole To Hole Clearance Constraint: (Collision < 0.45mm) Between Pad H3-(83.085mm,34.625mm) on Multi-Layer And Pad P1C-3(85.226mm,33.906mm) on Multi-Layer Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 0.45mm) Between Pad H3-(83.085mm,34.625mm) on Multi-Layer And Pad P1D-(80.61mm,36.141mm) on Multi-Layer Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 0.45mm) Between Pad P1C-(79.257mm,36.141mm) on Multi-Layer And Pad P1D-(80.61mm,36.141mm) on Multi-Layer Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 0.45mm) Between Pad P1C-2(89.671mm,33.906mm) on Multi-Layer And Via (89.875mm,34mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 0.45mm) Between Pad P1C-6(94.116mm,38.376mm) on Multi-Layer And Via (94.3mm,38.625mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
-Rule Violations :6
-
-Processing Rule : Minimum Solder Mask Sliver (Gap=0.102mm) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (0.016mm < 0.102mm) Between Pad C134-2(92.05mm,35.85mm) on Top Layer And Pad P1C-1(94.116mm,33.906mm) on Multi-Layer [Top Solder] Mask Sliver [0.016mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.09mm < 0.102mm) Between Pad P1C-1(94.116mm,33.906mm) on Multi-Layer And Pad U109-3(95.96mm,31.89mm) on Top Layer [Top Solder] Mask Sliver [0.09mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.095mm < 0.102mm) Between Pad P1C-2(89.671mm,33.906mm) on Multi-Layer And Pad U109-6(90.31mm,31.89mm) on Top Layer [Top Solder] Mask Sliver [0.095mm]
-Rule Violations :3
-
-Processing Rule : Silk To Solder Mask (Clearance=0.25mm) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (0.149mm < 0.25mm) Between Arc (70.11mm,31.975mm) on Bottom Overlay And Pad P1D-2(70.196mm,33.906mm) on Multi-Layer [Bottom Overlay] to [Bottom Solder] clearance [0.149mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.192mm < 0.25mm) Between Arc (71.15mm,33.625mm) on Top Overlay And Pad P1D-2(70.196mm,33.906mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.192mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.25mm) Between Arc (73.95mm,38.162mm) on Top Overlay And Pad P1D-6(74.641mm,38.376mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.248mm < 0.25mm) Between Arc (73.95mm,39.638mm) on Top Overlay And Pad P1D-6(74.641mm,38.376mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.248mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.228mm < 0.25mm) Between Pad P1C-4(85.226mm,38.376mm) on Multi-Layer And Text "CONTACTOR
-C" (94.6mm,38.275mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.228mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.184mm < 0.25mm) Between Pad P1C-5(89.671mm,38.376mm) on Multi-Layer And Text "CONTACTOR
-C" (94.6mm,38.275mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.184mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.231mm < 0.25mm) Between Pad P1C-6(94.116mm,38.376mm) on Multi-Layer And Text "CONTACTOR
-C" (94.6mm,38.275mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.231mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.25mm) Between Pad P1D-(59.782mm,36.141mm) on Multi-Layer And Text "AUX-BAT-IN" (60.425mm,36.625mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.25mm) Between Pad P1D-(59.782mm,36.141mm) on Multi-Layer And Text "AUX-BAT-IN" (69.95mm,36.55mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.238mm < 0.25mm) Between Pad P1D-2(70.196mm,33.906mm) on Multi-Layer And Track (70.575mm,33.625mm)(71.725mm,33.625mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.238mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.25mm) Between Pad P1D-4(65.751mm,38.376mm) on Multi-Layer And Text "AUX-BAT-IN" (60.425mm,36.625mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.25mm) Between Pad P1D-4(65.751mm,38.376mm) on Multi-Layer And Text "AUX-BAT-IN" (69.95mm,36.55mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.228mm < 0.25mm) Between Pad P1D-4(65.751mm,38.376mm) on Multi-Layer And Text "CONTACTOR
-D" (75.125mm,38.275mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.228mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.25mm) Between Pad P1D-5(70.196mm,38.376mm) on Multi-Layer And Text "AUX-BAT-IN" (60.425mm,36.625mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.25mm) Between Pad P1D-5(70.196mm,38.376mm) on Multi-Layer And Text "AUX-BAT-IN" (69.95mm,36.55mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.18mm < 0.25mm) Between Pad P1D-5(70.196mm,38.376mm) on Multi-Layer And Text "CONTACTOR
-D" (75.125mm,38.275mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.18mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.072mm < 0.25mm) Between Pad P1D-5(70.196mm,38.376mm) on Multi-Layer And Text "M5" (71.425mm,38.45mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.072mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.231mm < 0.25mm) Between Pad P1D-6(74.641mm,38.376mm) on Multi-Layer And Text "CONTACTOR
-D" (75.125mm,38.275mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.231mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.061mm < 0.25mm) Between Pad P1D-6(74.641mm,38.376mm) on Multi-Layer And Text "M5" (71.425mm,38.45mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.061mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.013mm < 0.25mm) Between Pad P1D-6(74.641mm,38.376mm) on Multi-Layer And Track (73.575mm,38.162mm)(73.575mm,39.638mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.013mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.155mm < 0.25mm) Between Pad P1D-6(74.641mm,38.376mm) on Multi-Layer And Track (73.95mm,37.788mm)(74.2mm,37.788mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.155mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.246mm < 0.25mm) Between Pad P1D-6(74.641mm,38.376mm) on Multi-Layer And Track (73.95mm,40.013mm)(74.2mm,40.013mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.246mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.202mm < 0.25mm) Between Pad P1D-6(74.641mm,38.376mm) on Multi-Layer And Track (74.2mm,37.788mm)(74.2mm,40.013mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.202mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.233mm < 0.25mm) Between Pad P1D-6(74.641mm,38.376mm) on Multi-Layer And Track (74.2mm,38.163mm)(74.7mm,39.638mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.233mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.247mm < 0.25mm) Between Pad P1D-6(74.641mm,38.376mm) on Multi-Layer And Track (74.2mm,38.163mm)(76.45mm,38.163mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.247mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.249mm < 0.25mm) Between Pad P1D-6(74.641mm,38.376mm) on Multi-Layer And Track (74.2mm,39.638mm)(76.45mm,39.638mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.249mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.25mm) Between Pad P1D-6(74.641mm,38.376mm) on Multi-Layer And Track (74.7mm,38.163mm)(75.2mm,39.638mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.226mm < 0.25mm) Between Pad P1D-6(74.641mm,38.376mm) on Multi-Layer And Track (75.2mm,38.163mm)(75.7mm,39.638mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.226mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.203mm < 0.25mm) Between Pad P1D-6(74.641mm,38.376mm) on Multi-Layer And Track (75.7mm,38.163mm)(76.2mm,39.638mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.203mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.081mm < 0.25mm) Between Pad P1D-6(74.641mm,38.376mm) on Multi-Layer And Track (76.2mm,38.162mm)(76.313mm,38.162mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.081mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.081mm < 0.25mm) Between Pad P1D-6(74.641mm,38.376mm) on Multi-Layer And Track (76.2mm,38.162mm)(76.45mm,38.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.081mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.193mm < 0.25mm) Between Pad P1D-6(74.641mm,38.376mm) on Multi-Layer And Track (76.313mm,38.162mm)(76.35mm,38.2mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.193mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.229mm < 0.25mm) Between Pad P1D-6(74.641mm,38.376mm) on Multi-Layer And Track (76.45mm,38.163mm)(76.45mm,39.638mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.229mm]
-Rule Violations :33
-
-Processing Rule : Silk to Silk (Clearance=0.15mm) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=17.716mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mm) (All)
-   Violation between Net Antennae: Via (100.35mm,97.75mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (100.65mm,102.85mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (100.725mm,100.65mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (100mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (101.25mm,45mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (102.5mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (102.5mm,47.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (103.375mm,117.925mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (103.625mm,103.375mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (103.625mm,106.275mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (103.625mm,94.125mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (103.675mm,108.9mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (104.225mm,96.225mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (105mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (106.95mm,114.975mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (107.5mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (107.805mm,88.154mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (108.125mm,90.475mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (109.9mm,99.975mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (109mm,104.525mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (110.85mm,112.55mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (110mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (111.25mm,45mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (111.375mm,90.55mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (112.5mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (112.5mm,47.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (112.5mm,52.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (113.75mm,50mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (113.75mm,55mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (115.15mm,82.975mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (115.95mm,92.75mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (115mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (115mm,52.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (116.25mm,50mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (116.25mm,55mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (117.075mm,71.275mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (117.5mm,47.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (117.5mm,52.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (118.75mm,50mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (118.75mm,55mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (121.075mm,71.275mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (122.675mm,83.075mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (123.925mm,113.95mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (125mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (126.975mm,108.575mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (127.5mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (127.5mm,47.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (129.2mm,109.975mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (129.9mm,108.55mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (130.3mm,76.625mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (130mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (131.25mm,45mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (131.25mm,50mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (131.25mm,55mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (132.35mm,71.2mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (132.5mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (132.5mm,47.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (132.5mm,52.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (132.675mm,74.225mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (136.55mm,71.275mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (59.875mm,55.25mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (59.925mm,52.025mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (59.95mm,45.625mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (60mm,47.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (61.25mm,50mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (62.5mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (65.125mm,90.85mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (65.55mm,93.675mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (65mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (67.5mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (68.75mm,45mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (70mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (72.5mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (72.5mm,47.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (72.5mm,52.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (73.35mm,114.25mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (73.75mm,55mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (73.925mm,71.2mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (75.45mm,124.45mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (75mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (75mm,47.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (75mm,52.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (76.25mm,50mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (76.25mm,55mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (76.65mm,107.075mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (76.65mm,110.725mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (76.725mm,113.825mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (77.5mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (77.5mm,47.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (77.5mm,52.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (78.125mm,71.275mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (78.75mm,122.9mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (78.75mm,45mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (78.75mm,50mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (78.75mm,55mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (79.1mm,101.375mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (80.225mm,71.275mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (80mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (81.35mm,111.575mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (82.125mm,71.275mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (82.5mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (82.5mm,47.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (83.725mm,119.85mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (84.025mm,101.575mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (85.225mm,87.175mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (85.425mm,102.075mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (85.525mm,99.4mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (85.625mm,107.85mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (85mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (87.5mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (87.5mm,92.275mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (88.75mm,45mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (88.8mm,119.2mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (88mm,119.2mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (88mm,122.4mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (89.6mm,122.4mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (89.875mm,34mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (90.4mm,122.4mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (90.4mm,123.2mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (90mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (90mm,47.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (91.25mm,45mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (92.5mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (92.5mm,47.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (92.5mm,52.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (93.4mm,71.2mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (93.75mm,55mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (95mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (95mm,47.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (95mm,52.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (96.25mm,50mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (96.25mm,55mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (96.65mm,94.275mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (96.975mm,92.05mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (97.5mm,42.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (97.5mm,47.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (97.5mm,52.5mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (97.6mm,71.275mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (98.75mm,45mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (98.75mm,50mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (98.75mm,55mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (99.7mm,71.275mm) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (99.875mm,94.425mm) from Top Layer to Bottom Layer 
-Rule Violations :143
-
-Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=4mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU'))
-   Violation between Room Definition: Between Component D114-D0S4-000CR-00 (112.495mm,119.525mm) on Top Layer And Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) 
-   Violation between Room Definition: Between Component K100-SPST-NO Solid State Relay (122.8mm,107.499mm) on Top Layer And Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) 
-   Violation between Room Definition: Between Component P100-Molex Ultrafit 3x1 (64.465mm,80.825mm) on Top Layer And Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) 
-   Violation between Room Definition: Between Component P102-SCH_MLX_MICROFIT_3X2 (65.715mm,95.175mm) on Top Layer And Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) 
-   Violation between Room Definition: Between Component P103-SCH_MLX_MICROFIT_3X2 (65.725mm,108.875mm) on Top Layer And Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) 
-   Violation between Room Definition: Between Component P104-Molex Ultrafit 3x1 (64.45mm,28.4mm) on Top Layer And Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) 
-   Violation between Room Definition: Between Component P106-Molex Ultrafit 3x1 (135.475mm,28.4mm) on Top Layer And Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) 
-   Violation between Room Definition: Between Component Q103-INFINEON BSC030P03NS3 G (93.025mm,25.1mm) on Top Layer And Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) 
-   Violation between Room Definition: Between Component S100-Tactile Switch (121.75mm,119.425mm) on Top Layer And Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) 
-   Violation between Room Definition: Between Component S101-Tactile Switch (82.575mm,25.575mm) on Top Layer And Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) 
-   Violation between Room Definition: Between Component S102-Tactile Switch (130.6mm,90.9mm) on Top Layer And Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) 
-   Violation between Room Definition: Between Component U102-TPS73733DRV (89.17mm,120.85mm) on Top Layer And Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) 
-   Violation between Room Definition: Between Component U106-LD2980CM33 (101.45mm,32.65mm) on Top Layer And Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) 
-   Violation between Room Definition: Between Component U108-AP331A (100.85mm,85.224mm) on Top Layer And Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) 
-   Violation between Room Definition: Between LCC Component U103-STM32F407VGT6 (97.725mm,106.699mm) on Top Layer And Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SIP Component P101-4-Pin Vertical Header (101.595mm,125.675mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And Small Component P105-SCH_MLX_1X2 (133.968mm,108mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And Small Component U100-R78E-1.0 DC/DC (76.325mm,121.025mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And Small Component X100-8 MHz (116mm,106.275mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C100-C040-000U1-00 (120.626mm,111.275mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C101-C040-000U1-00 (77.3mm,97.1mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C102-C040-000U1-00 (80.16mm,97.1mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C103-C060-002U2-00 (85.315mm,119.325mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C104-C060-002U2-00 (80.4mm,98.401mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C105-C040-000U1-00 (86.615mm,119.575mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C106-C040-0010N-00 (91.725mm,121.425mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C107-C006-T022U-00 (93.526mm,120.9mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C108-C060-002U2-00 (105.811mm,96.374mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C109-C040-000U1-00 (108.202mm,104.295mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C110-C040-000U1-00 (107.05mm,105.025mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C111-C040-000U1-00 (108.5mm,108.649mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C112-C040-000U1-00 (102.936mm,116.05mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C113-C040-000U1-00 (91.775mm,116.75mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C114-C040-000U1-00 (87mm,98.811mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C115-C040-000U1-00 (103.836mm,97.349mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C116-C060-0001U-00 (109.601mm,112.524mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C117-C060-002U2-00 (87.976mm,101.35mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C118-C040-000U1-00 (108.076mm,112.29mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C119-C060-002U2-00 (95.052mm,117.477mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C120-C040-0030P-00 (112.211mm,105.35mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C121-C040-0030P-00 (112.211mm,107.4mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C122-C060-0001U-00 (83.65mm,88.637mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C123-C040-000U1-00 (83.85mm,87.336mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C124-C040-000U1-00 (113.625mm,30.425mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C125-C040-0001N-00 (85.866mm,85.19mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C126-C060-002U2-00 (100.95mm,28.175mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C127-C040-000U1-00 (104.975mm,30.45mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C128-C040-000U1-00 (100.9mm,29.7mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C129-C040-000U1-00 (103.098mm,87.625mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C130-C060-002U2-00 (96.675mm,39.03mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C131-C040-000U1-00 (99.15mm,37.575mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C132-C060-002U2-00 (98.31mm,34.551mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C133-C040-000U1-00 (109.625mm,90.729mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C134-C060-0001U-00 (92.05mm,36.55mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C135-C040-000U1-00 (107.375mm,84.179mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component C136-C040-000U1-00 (117.9mm,93.685mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component D100-TVS_14V_UNI (75.215mm,85.1mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component D101-Bourns TVS Diode 3.3V SOD323 (121.75mm,125.385mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component D102-TVS_14V_UNI (76.415mm,88.651mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component D103-LittleFuse_SP4021-01FTG-C (73.41mm,95.6mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component D104-Bourns TVS Diode 3.3V SOD323 (73.41mm,104.925mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component D105-LittleFuse_SP4021-01FTG-C (73.41mm,92mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component D106-D060-000G2-00 (78.821mm,112.8mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component D107-Bourns TVS Diode 3.3V SOD323 (73.41mm,108.475mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component D108-Bourns TVS Diode 3.3V SOD323 (73.41mm,112.025mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component D109-D060-000G2-00 (78.821mm,108.5mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component D110-ONSEMI_MBRM110LT1G (88.85mm,124.35mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component D111-ONSEMI_MBRM110LT1G (84.2mm,124.35mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component D112-D060-000G2-00 (78.821mm,104.2mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component D113-D060-000G2-00 (106.7mm,117.625mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component D115-TVS_14V_UNI (75.2mm,24.65mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component D116-TVS_14V_UNI (75.2mm,32.35mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component D117-Bourns TVS Diode 3.3V SOD323 (136.56mm,91mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component D118-D060-000R2-00 (116.2mm,95.525mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component D119-TVS_14V_UNI (124.7mm,24.725mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component FB100-FERRITE BEAD 0603 (111.9mm,111.75mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component FB101-FERRITE BEAD 0603 (108.925mm,110.099mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component Q100-NMOS - SSM3K333R (75.846mm,112.026mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component Q101-NMOS - SSM3K333R (75.846mm,108.475mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component Q102-NMOS - SSM3K333R (75.846mm,104.925mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R100-R060-00103-01 (118.715mm,113.55mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R101-R060-00331-05 (81.621mm,112.8mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R102-R060-00103-01 (78.671mm,114.2mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R103-R060-00121-05 (75.071mm,93.799mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R104-R060-00104-05 (78.671mm,111.399mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R105-R060-00331-05 (81.621mm,108.5mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R106-R060-00104-05 (75.071mm,91.149mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R107-R060-00103-01 (78.675mm,109.9mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R108-R060-00104-05 (78.671mm,107.099mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R109-R060-00331-05 (81.621mm,104.2mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R110-R060-00103-01 (78.671mm,105.6mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R111-R060-00104-05 (78.671mm,102.799mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R112-R060-00331-05 (105.3mm,117.675mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R113-R060-00103-01 (112.85mm,96.05mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R114-R060-00103-01 (111.3mm,96.05mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R115-R060-00103-01 (109.75mm,96.05mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R116-R060-00103-01 (108.2mm,96.05mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R117-R060-00300-05 (111.05mm,116.925mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R118-R060-00300-05 (112.5mm,116.925mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R119-R060-00141-05 (114.1mm,116.925mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R120-R060-00104-05 (86.841mm,83.215mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R121-R060-00141-05 (119.325mm,111.499mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R122-resistor_sense_1mOhm_2512 (76.115mm,78.65mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R123-10K TRIM (101.55mm,91.575mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R124-R060-00104-05 (90.275mm,87.026mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R125-R060-00104-05 (99.8mm,39.65mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R126-R060-00103-01 (104mm,85.149mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R127-R060-00104-05 (124.175mm,88.3mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R128-R060-00104-05 (90.15mm,36.529mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R129-R060-00141-05 (89.475mm,38.575mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R130-R060-00103-01 (93.951mm,36.525mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R131-R060-00331-05 (116.15mm,96.925mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R132-R060-03572-01 (95.851mm,36.5mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R133-R060-00823-01 (98.31mm,28.35mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component R134-R060-00103-01 (98.31mm,31.45mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component SB100-N/O (81.375mm,114.2mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component SB101-N/O (81.375mm,109.875mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component SB102-N/O (81.375mm,105.6mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component SB103-N/O (111.05mm,115.05mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component SB104-N/O (112.5mm,115.05mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component SB105-N/O (114.1mm,115.05mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component SB106-N/O (88.428mm,84.975mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component TP100-TESTPOINT (90.35mm,84.275mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component TP101-TESTPOINT (87.116mm,85.725mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component TP102-TESTPOINT (90.35mm,85.625mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component TP103-TESTPOINT (105.05mm,102.95mm) on Bottom Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component TP104-TESTPOINT (105.05mm,101.55mm) on Bottom Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component TP105-TESTPOINT (106.4mm,102.275mm) on Bottom Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component TP106-TESTPOINT (97.725mm,87.95mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component TP107-TESTPOINT (99.075mm,87.95mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component TP108-TESTPOINT (105.8mm,100.05mm) on Bottom Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component TP109-TESTPOINT (114.25mm,93.5mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component TP110-TESTPOINT (111.2mm,92.125mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component TP111-TESTPOINT (120mm,85.6mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component TP112-TESTPOINT (112.275mm,93.5mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component TP113-TESTPOINT (115.675mm,87.625mm) on Bottom Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component TP114-TESTPOINT (105.401mm,85.075mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component TP115-TESTPOINT (109.875mm,88.425mm) on Bottom Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component TP116-TESTPOINT (110.4mm,93.5mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component TP117-TESTPOINT (112.25mm,87.775mm) on Bottom Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component TP118-TESTPOINT (78.05mm,83.35mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component TP119-TESTPOINT (79.4mm,82.436mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SMT Small Component U107-RT9818C-29GV (132.175mm,96.3mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SOIC Component J100-SMT, shrouded (90.915mm,94.3mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SOIC Component U101-SN65HVD1050DR (79.5mm,93.8mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SOIC Component U104-MAX9923F (82.066mm,84.936mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SOIC Component U105-Si8631AB-B-IS1 (109.3mm,34.225mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SOIC Component U109-MAX8212 (93.135mm,31.255mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SOIC Component U110-ONSEMI_NL27WZ02 (108.45mm,88.829mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SOIC Component U111-ADS7867 (101.851mm,37.1mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SOIC Component U112-ONSEMI_NL27WZ02 (108.448mm,86.079mm) on Top Layer 
-   Violation between Room Definition: Between Room U_MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('U_MCU')) And SOIC Component U113-TI_SN74LV08A (115.6mm,88.15mm) on Top Layer 
-Rule Violations :152
-
-Processing Rule : Room CTRC (Bounding Region = (79.45mm, 39.575mm, 98.925mm, 72.375mm) (InComponentClass('CTRC'))
+Processing Rule : Silk To Solder Mask (Clearance=9.842mil) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Room CTRA (Bounding Region = (118.4mm, 39.575mm, 137.875mm, 72.375mm) (InComponentClass('CTRA'))
+Processing Rule : Silk to Silk (Clearance=5.906mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Room CTRB (Bounding Region = (98.925mm, 39.575mm, 118.4mm, 72.375mm) (InComponentClass('CTRB'))
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Room MainSheet (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MainSheet'))
-   Violation between Room Definition: Between Room MainSheet (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MainSheet')) And Small Component H1-NPTH5.5/11.5 (65.5mm,121.751mm) on Top Layer 
-   Violation between Room Definition: Between Room MainSheet (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MainSheet')) And Small Component H2-NPTH5.5/11.5 (134.425mm,121.751mm) on Top Layer 
-   Violation between Room Definition: Between Room MainSheet (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MainSheet')) And Small Component H3-NPTH5.5/11.5 (83.085mm,34.625mm) on Top Layer 
-   Violation between Room Definition: Between Room MainSheet (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MainSheet')) And Small Component H4-NPTH5.5/11.5 (120.225mm,34.625mm) on Top Layer 
-   Violation between Room Definition: Between Room MainSheet (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MainSheet')) And SMT Small Component FID1-FIDUCIAL (127.576mm,113.625mm) on Top Layer 
-   Violation between Room Definition: Between Room MainSheet (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MainSheet')) And SMT Small Component FID2-FIDUCIAL (75.45mm,36.2mm) on Top Layer 
-   Violation between Room Definition: Between Room MainSheet (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MainSheet')) And SMT Small Component FID3-FIDUCIAL (127.576mm,36.2mm) on Top Layer 
-   Violation between Room Definition: Between Room MainSheet (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MainSheet')) And SMT Small Component FID4-FIDUCIAL (89.975mm,98.95mm) on Top Layer 
-   Violation between Room Definition: Between Room MainSheet (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MainSheet')) And SMT Small Component FID5-FIDUCIAL (105.475mm,114.45mm) on Top Layer 
-   Violation between Room Definition: Between Room MainSheet (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MainSheet')) And SMT Small Component SKIP1-X-Out/Skip Mark (130.875mm,113.575mm) on Top Layer 
-Rule Violations :10
-
-Processing Rule : Room CTRD (Bounding Region = (59.975mm, 39.575mm, 79.45mm, 72.375mm) (InComponentClass('CTRD'))
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Processing Rule : Room CTRB (Bounding Region = (3894.685mil, 1558.071mil, 4661.417mil, 2849.409mil) (InComponentClass('CTRB'))
+Rule Violations :0
+
+Processing Rule : Room CTRC (Bounding Region = (3127.953mil, 1558.071mil, 3894.685mil, 2849.409mil) (InComponentClass('CTRC'))
+Rule Violations :0
+
+Processing Rule : Room CTRA (Bounding Region = (4661.417mil, 1558.071mil, 5428.15mil, 2849.409mil) (InComponentClass('CTRA'))
+Rule Violations :0
+
+Processing Rule : Room CTRD (Bounding Region = (2361.221mil, 1558.071mil, 3127.953mil, 2849.409mil) (InComponentClass('CTRD'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 500
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:03

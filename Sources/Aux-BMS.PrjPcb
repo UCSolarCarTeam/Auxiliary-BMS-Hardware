@@ -55,6 +55,23 @@ GenerateClassCluster=0
 DocumentUniqueId=UOVXXXBW
 
 [Document2]
+DocumentPath=..\AltiumLibraries\Connectors\PCB Libraries\Deutsch ICT Con - DTF13-6P.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YBCNSWXB
+
+[Document3]
 DocumentPath=Dependencies\2 Pin 100 mil Right Angle Header - Surface Mount.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJSUKXFG
 
-[Document3]
+[Document4]
 DocumentPath=Dependencies\2 Pin 100 mil Right Angle Header - Through Hole.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DCOFKFLA
 
-[Document4]
+[Document5]
 DocumentPath=Dependencies\3V3LDO_TPS73633DBVR_SOT23-5.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YNAXYHYC
 
-[Document5]
+[Document6]
 DocumentPath=Dependencies\4 Pin 100 mil Vertical Header - Through Hole.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IQPAMGND
 
-[Document6]
+[Document7]
 DocumentPath=Dependencies\6 Pin 100 mil Right Angle Header - Surface Mount.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJSUKXFG
 
-[Document7]
+[Document8]
 DocumentPath=Dependencies\6 Pin 100 mil Vertical Header - Through Hole.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFVBTABJ
 
-[Document8]
+[Document9]
 DocumentPath=Dependencies\24 Pin 100 mil Vertical Header - Through Hole.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KLVLWCMI
 
-[Document9]
+[Document10]
 DocumentPath=Dependencies\C&K 4 Pin Tactile Switch.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IFFYYVOJ
 
-[Document10]
+[Document11]
 DocumentPath=Dependencies\Foxslf 8MHz Crystal.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IFBDKMAV
 
-[Document11]
+[Document12]
 DocumentPath=Dependencies\Generic 0402 Capacitor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OEOITSAY
 
-[Document12]
+[Document13]
 DocumentPath=Dependencies\Generic 0603 Resistor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YKJAUJJB
 
-[Document13]
+[Document14]
 DocumentPath=Dependencies\Infineon BSC030P03NS3 G - 8-PowerTDFN - PMOS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LDUSFAJR
 
-[Document14]
+[Document15]
 DocumentPath=Dependencies\Maxim MAX8211.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CFFPJVPC
 
-[Document15]
+[Document16]
 DocumentPath=Dependencies\Maxim MAX8212.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ATTQSHBW
 
-[Document16]
+[Document17]
 DocumentPath=Dependencies\Microchip_MCP2562_8SOIC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OMAKMQUM
 
-[Document17]
+[Document18]
 DocumentPath=Dependencies\Molex Microfit 3.0 1x2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MLMKFKCS
 
-[Document18]
+[Document19]
 DocumentPath=Dependencies\Molex Microfit 3.0 3x2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KMYXJDMF
 
-[Document19]
+[Document20]
 DocumentPath=Dependencies\Omron-XG4A-031-conn-plug-10pos-100mil.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UHIFLOIM
 
-[Document20]
+[Document21]
 DocumentPath=Dependencies\ON Semi Schottky Diode.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JMSJAJPY
 
-[Document21]
+[Document22]
 DocumentPath=Dependencies\Phoenix Contact 1720466.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OHCUHNOV
 
-[Document22]
+[Document23]
 DocumentPath=Dependencies\Recom R78E-1.0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HLAWRUIG
 
-[Document23]
+[Document24]
 DocumentPath=Dependencies\Samtec SWD+VCOM Header - J-Link.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ESXQQATK
 
-[Document24]
+[Document25]
 DocumentPath=Dependencies\Schurter 5x20mm Fuse Holder.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SBSPPIDU
 
-[Document25]
+[Document26]
 DocumentPath=Dependencies\SM74611 Smart Bypass Diode - TI.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RGBOLRKS
 
-[Document26]
+[Document27]
 DocumentPath=Dependencies\SPST-NC Relay - TE.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AFGJWVXL
 
-[Document27]
+[Document28]
 DocumentPath=Dependencies\SPST-NC Solid State Relay - IXYS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TJDIUOYP
 
-[Document28]
+[Document29]
 DocumentPath=Dependencies\SPST-NO Solid State Relay - IXYS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QRJWOMME
 
-[Document29]
+[Document30]
 DocumentPath=Dependencies\STMicroelectronics STM32 F4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NFBLLSTB
 
-[Document30]
+[Document31]
 DocumentPath=Dependencies\STMicroelectronics STM32 F41.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document32]
 DocumentPath=Dependencies\STMicroelectronics STM32 F42.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document33]
 DocumentPath=Dependencies\SunLED TricolourLED.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XVFOXETF
 
-[Document33]
+[Document34]
 DocumentPath=Dependencies\Tantalum-1206.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,7 +615,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MKBXISXR
 
-[Document34]
+[Document35]
 DocumentPath=Dependencies\TexasInstruments_ADS7952SRHBT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,7 +632,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document36]
 DocumentPath=Dependencies\Toshiba NMOS - SOT23-F.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -632,7 +649,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ALLIAGDD
 
-[Document36]
+[Document37]
 DocumentPath=Dependencies\TVS Diode 3V3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,7 +666,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NQWIIVAN
 
-[Document37]
+[Document38]
 DocumentPath=Dependencies\Vicor_MaxiMiniMicro_DCDC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -666,7 +683,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document39]
 DocumentPath=Dependencies\Wurth Red LED.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -683,7 +700,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document40]
 DocumentPath=Dependencies\Zener Diode.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,7 +717,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document41]
+DocumentPath=..\AltiumLibraries\Connectors\Schematic Libraries\Molex Minifit 3x2.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FCMCLQLY
+
+[Document42]
+DocumentPath=..\AltiumLibraries\Connectors\Schematic Libraries\Deutsch ICT Con - DTF13-6P.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JTCWTQTC
+
+[Document43]
 DocumentPath=Dependencies\2 Pin 100 mil Right Angle Header - Surface Mount.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -717,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LWRGXMJC
 
-[Document41]
+[Document44]
 DocumentPath=Dependencies\2 Pin 100 mil Right Angle Header - Through Hole.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -734,7 +785,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GDJRWMUU
 
-[Document42]
+[Document45]
 DocumentPath=Dependencies\3V3LDO_TPS73633DBVR_SOT23-5.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +802,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HWBWVNDI
 
-[Document43]
+[Document46]
 DocumentPath=Dependencies\4 Pin 100 mil Vertical Header - Through Hole.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -768,7 +819,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RNASMPNX
 
-[Document44]
+[Document47]
 DocumentPath=Dependencies\6 Pin 100 mil Right Angle Header - Surface Mount.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -785,7 +836,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JBKEAVVQ
 
-[Document45]
+[Document48]
 DocumentPath=Dependencies\6 Pin 100 mil Vertical Header - Through Hole.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -802,7 +853,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FXQGUJWO
 
-[Document46]
+[Document49]
 DocumentPath=Dependencies\24 Pin 100 mil Vertical Header - Through Hole.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -819,7 +870,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QPHUQQNG
 
-[Document47]
+[Document50]
 DocumentPath=Dependencies\C&K 4 Pin Tactile Switch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -836,7 +887,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MLRJLKRQ
 
-[Document48]
+[Document51]
 DocumentPath=Dependencies\Foxslf 8MHz Crystal.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -853,7 +904,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AHCGHSOR
 
-[Document49]
+[Document52]
 DocumentPath=Dependencies\CAP-0603.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -870,7 +921,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QRBVROYT
 
-[Document50]
+[Document53]
 DocumentPath=Dependencies\resistor_sense_1mOhm_2512.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -887,7 +938,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XJJRUQWW
 
-[Document51]
+[Document54]
 DocumentPath=Dependencies\Infineon BSC030P03NS3 G - 8-PowerTDFN - PMOS.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -904,7 +955,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NKNYBYXW
 
-[Document52]
+[Document55]
 DocumentPath=Dependencies\Maxim MAX8211.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -921,7 +972,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VTRHTXIU
 
-[Document53]
+[Document56]
 DocumentPath=Dependencies\Maxim MAX8212.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -938,7 +989,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JXLIXXAV
 
-[Document54]
+[Document57]
 DocumentPath=Dependencies\Microchip MCP2562.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -955,7 +1006,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CBBXMAYE
 
-[Document55]
+[Document58]
 DocumentPath=Dependencies\Molex Microfit 3.0 1x2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -972,7 +1023,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPIFVFNC
 
-[Document56]
+[Document59]
 DocumentPath=Dependencies\Molex Microfit 3.0 3x2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -989,7 +1040,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ATRVYQBE
 
-[Document57]
+[Document60]
 DocumentPath=Dependencies\Omron-XG4A-031-conn-plug-10pos-100mil.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1006,7 +1057,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EWHSVEEF
 
-[Document58]
+[Document61]
 DocumentPath=Dependencies\ON Semi Schottky Diode.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1023,7 +1074,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YWXTDROM
 
-[Document59]
+[Document62]
 DocumentPath=Dependencies\Phoenix Contact 1720466.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1040,7 +1091,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YXGFPHPT
 
-[Document60]
+[Document63]
 DocumentPath=Dependencies\Recom R78E-1.0.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1057,7 +1108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FHIGIGBD
 
-[Document61]
+[Document64]
 DocumentPath=Dependencies\Samtec SWD+VCOM Header - J-Link.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1074,7 +1125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OGFYXELP
 
-[Document62]
+[Document65]
 DocumentPath=Dependencies\SM74611 Smart Bypass Diode - TI.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1091,7 +1142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PREWUHRP
 
-[Document63]
+[Document66]
 DocumentPath=Dependencies\SPST-NC Relay.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1108,7 +1159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CFBUWHLD
 
-[Document64]
+[Document67]
 DocumentPath=Dependencies\SPST-NC Solid State Relay.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1125,7 +1176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HREMJSAP
 
-[Document65]
+[Document68]
 DocumentPath=Dependencies\SPST-NO Solid State Relay.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1142,7 +1193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FPDFUQGL
 
-[Document66]
+[Document69]
 DocumentPath=Dependencies\STMicroelectronics STM32 F4.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1159,7 +1210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ANPOIVJZ
 
-[Document67]
+[Document70]
 DocumentPath=Dependencies\STMicroelectronics STM32 F41.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1176,7 +1227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HQBWHDQC
 
-[Document68]
+[Document71]
 DocumentPath=Dependencies\STMicroelectronics STM32 F42.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1193,7 +1244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZHXPAULY
 
-[Document69]
+[Document72]
 DocumentPath=Dependencies\SunLED TricolourLED.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1210,7 +1261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KVTXCQRK
 
-[Document70]
+[Document73]
 DocumentPath=Dependencies\Tantalum-1206.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1227,7 +1278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BFVONMJD
 
-[Document71]
+[Document74]
 DocumentPath=Dependencies\TexasInstruments_ADS7952SRHBT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1244,7 +1295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XEFWCGTL
 
-[Document72]
+[Document75]
 DocumentPath=Dependencies\Toshiba NMOS - SOT23-F.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1261,7 +1312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VVUXTFHT
 
-[Document73]
+[Document76]
 DocumentPath=Dependencies\TVS Diode Unidirectional 14V.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1278,7 +1329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GXBABPMK
 
-[Document74]
+[Document77]
 DocumentPath=Dependencies\Vicor_MaxiMiniMicro.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1295,7 +1346,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FPPRTAYL
 
-[Document75]
+[Document78]
 DocumentPath=Dependencies\Wurth Red LED.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1312,7 +1363,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WUWGOHUQ
 
-[Document76]
+[Document79]
 DocumentPath=Dependencies\Zener Diode.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1329,7 +1380,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VQXVQBVF
 
-[Document77]
+[Document80]
 DocumentPath=Dependencies\Molex Ultrafit 3x2 - 172299-1206.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1346,7 +1397,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LRDFIHRQ
 
-[Document78]
+[Document81]
 DocumentPath=Dependencies\Molex Ultrafit 3x2 - 172299-1206.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1363,7 +1414,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JTCWTQTC
 
-[Document79]
+[Document82]
 DocumentPath=Dependencies\Molex Ultrafit 3x1 - 172310-1303.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1380,7 +1431,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=INOWWTPE
 
-[Document80]
+[Document83]
 DocumentPath=Dependencies\Molex Ultrafit 3x1 - 172310-1303.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1397,7 +1448,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VTYIJPYY
 
-[Document81]
+[Document84]
 DocumentPath=Dependencies\CONN-50mil-cortexM.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1414,7 +1465,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DTKVAKPJ
 
-[Document82]
+[Document85]
 DocumentPath=Dependencies\generic_2512_resistor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1431,7 +1482,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PQMAFIHK
 
-[Document83]
+[Document86]
 DocumentPath=Dependencies\Maxim_MAX9923F_current_sense_opamp.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1448,7 +1499,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MKCNEEKO
 
-[Document84]
+[Document87]
 DocumentPath=Dependencies\Maxim_MAX9923F_current_sense_opamp.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1465,7 +1516,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YHYSXMMB
 
-[Document85]
+[Document88]
 DocumentPath=Dependencies\CONN-50mil-10POS-SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1482,7 +1533,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWWUYSGS
 
-[Document86]
+[Document89]
 DocumentPath=Dependencies\C&K_Slide_Switch_DPDT_SMT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1499,7 +1550,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WMWBNRGE
 
-[Document87]
+[Document90]
 DocumentPath=Dependencies\C&K_Slide_Switch_DPDT_SMT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1516,7 +1567,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OAVXAHFA
 
-[Document88]
+[Document91]
 DocumentPath=Dependencies\Generic 0603 Capacitor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1533,7 +1584,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XDSBSBDY
 
-[Document89]
+[Document92]
 DocumentPath=Dependencies\Generic 0603 Capacitor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1550,7 +1601,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OEOITSAY
 
-[Document90]
+[Document93]
 DocumentPath=Dependencies\RES-0603.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1567,7 +1618,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LMXNASSV
 
-[Document91]
+[Document94]
 DocumentPath=Dependencies\TVS Diode 3V3.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1584,7 +1635,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GJEJIYCF
 
-[Document92]
+[Document95]
 DocumentPath=Dependencies\TVS Diode Unidirectional 14V.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1601,7 +1652,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KKATKBJR
 
-[Document93]
+[Document96]
 DocumentPath=Dependencies\0603-FERRITE-600Ohm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1618,7 +1669,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LUWDBFDK
 
-[Document94]
+[Document97]
 DocumentPath=Dependencies\0603-FERRITE-600Ohm.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1635,7 +1686,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WAAQFVIS
 
-[Document95]
+[Document98]
 DocumentPath=Dependencies\3V3LDO_LD2980CM33.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1652,7 +1703,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WUEPQGIU
 
-[Document96]
+[Document99]
 DocumentPath=Dependencies\3V3LDO_TPS73733DRV.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1669,7 +1720,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FDKPFTHB
 
-[Document97]
+[Document100]
 DocumentPath=ContactorDrive.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1686,7 +1737,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VEGCYKLT
 
-[Document98]
+[Document101]
 DocumentPath=MainSheet.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -1703,7 +1754,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LSSOPLCC
 
-[Document99]
+[Document102]
 DocumentPath=Dependencies\SolderJumper20mil.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1720,7 +1771,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RBBOTFYB
 
-[Document100]
+[Document103]
 DocumentPath=Dependencies\SolderJumper20mil.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1737,7 +1788,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWRKVWOA
 
-[Document101]
+[Document104]
 DocumentPath=Dependencies\TI_ADS7867.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1754,7 +1805,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MVKXQFML
 
-[Document102]
+[Document105]
 DocumentPath=Dependencies\TI_ADS7867.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1771,7 +1822,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IPCGNLXQ
 
-[Document103]
+[Document106]
 DocumentPath=Dependencies\3V3LDO_LD2980CM33.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1788,7 +1839,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MVKXQFML
 
-[Document104]
+[Document107]
 DocumentPath=Dependencies\SL_Si8631_SOIC16.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1805,7 +1856,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document105]
+[Document108]
 DocumentPath=Dependencies\SL_Si8631_SOIC16.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1822,7 +1873,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IINWWBJM
 
-[Document106]
+[Document109]
 DocumentPath=Dependencies\DI_AP331A_comparator.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1839,7 +1890,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HPMFWMGH
 
-[Document107]
+[Document110]
 DocumentPath=Dependencies\DI_AP331A_comparator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1856,7 +1907,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XKDJDGEV
 
-[Document108]
+[Document111]
 DocumentPath=Dependencies\ONSEMI_NL27WZ02.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1873,7 +1924,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTJAIDGP
 
-[Document109]
+[Document112]
 DocumentPath=Dependencies\ONSEMI_NL27WZ02.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1890,24 +1941,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TCBWEETM
 
-[Document110]
-DocumentPath=..\AltiumLibraries\Connectors\Schematic Libraries\Deutsch ICT Con - DTF13-6P.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NURHOWBB
-
-[Document111]
+[Document113]
 DocumentPath=Dependencies\DIODES_74AHC1G86_SOT353.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1924,7 +1958,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QKAHDVHT
 
-[Document112]
+[Document114]
 DocumentPath=Dependencies\DIODES_74AHC1G86_SOT353.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1941,7 +1975,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BOMHPMJA
 
-[Document113]
+[Document115]
 DocumentPath=Dependencies\TI_SN74LV08A_SOIC14.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1958,7 +1992,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JALUQJMK
 
-[Document114]
+[Document116]
 DocumentPath=Dependencies\TI_SN74LV08A_SOIC14.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1975,7 +2009,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UTNUWWSD
 
-[Document115]
+[Document117]
 DocumentPath=Dependencies\COPAL_trimmer_10k_smd.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1992,7 +2026,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NKRDAAXC
 
-[Document116]
+[Document118]
 DocumentPath=Dependencies\COPAL_trimmer_10k_smd.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2009,7 +2043,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HNMIWQGY
 
-[Document117]
+[Document119]
 DocumentPath=Dependencies\3V3LDO_TPS73733DRV.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2026,7 +2060,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PLFCIIHJ
 
-[Document118]
+[Document120]
 DocumentPath=Dependencies\MftrFeature.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2043,7 +2077,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IMQFWHRD
 
-[Document119]
+[Document121]
 DocumentPath=Dependencies\MftrFeature.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2060,7 +2094,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KEJQWASB
 
-[Document120]
+[Document122]
 DocumentPath=Dependencies\CAP-0402.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2077,7 +2111,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPKIOAEE
 
-[Document121]
+[Document123]
 DocumentPath=Dependencies\Richtek_RT9818C-29GV.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2094,7 +2128,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EWLEMOJW
 
-[Document122]
+[Document124]
 DocumentPath=Dependencies\Richtek_RT9818C-29GV.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2111,7 +2145,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RYFRUIBV
 
-[Document123]
+[Document125]
 DocumentPath=Dependencies\LED-0603.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2128,7 +2162,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KTPENQBU
 
-[Document124]
+[Document126]
 DocumentPath=Dependencies\LED-0603.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2145,7 +2179,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KDPTOGMG
 
-[Document125]
+[Document127]
 DocumentPath=Dependencies\LED-4SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2162,7 +2196,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GJUGGKSH
 
-[Document126]
+[Document128]
 DocumentPath=Dependencies\LED-4SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2179,7 +2213,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UITCAMPR
 
-[Document127]
+[Document129]
 DocumentPath=Dependencies\Silkscreen.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2196,7 +2230,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GKTQFYTD
 
-[Document128]
+[Document130]
 DocumentPath=Dependencies\Holes.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2213,7 +2247,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NQBLDWNP
 
-[Document129]
+[Document131]
 DocumentPath=Dependencies\Holes.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2230,7 +2264,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OJSMXAWW
 
-[Document130]
+[Document132]
 DocumentPath=Aux-BMS.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2247,7 +2281,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDPQTWAI
 
-[Document131]
+[Document133]
 DocumentPath=Assembler.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2264,7 +2298,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document132]
+[Document134]
 DocumentPath=Fabrication.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2281,7 +2315,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document133]
+[Document135]
 DocumentPath=Source.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2298,7 +2332,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document134]
+[Document136]
 DocumentPath=Dependencies\TI_SN65HVD1050DR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2315,7 +2349,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTACNHSM
 
-[Document135]
+[Document137]
 DocumentPath=Dependencies\TVS Diode Bi 5V.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2331,6 +2365,57 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FQYANAFL
+
+[Document138]
+DocumentPath=..\AltiumLibraries\Connectors\PCB Libraries\Deutsch ICT Con - DT13-6P.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SOCYYPPF
+
+[Document139]
+DocumentPath=..\AltiumLibraries\Connectors\Schematic Libraries\Deutsch ICT Con - DT13-6P.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KUBUPZWX
+
+[Document140]
+DocumentPath=..\AltiumLibraries\Connectors\PCB Libraries\Molex Minifit 3x2.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OXUDLIHW
 
 [ProjectVariant1]
 UniqueID=C12E1491-AA57-4DEE-AF7A-E2DB8E455C6C
@@ -2692,7 +2777,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -2794,6 +2879,12 @@ OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=PDF3D MBA
+OutputName11=PDF3D MBA
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -3390,6 +3481,8 @@ Type114=1
 Type115=1
 Type116=1
 Type117=1
+Type118=1
+Type119=1
 
 [Difference Levels]
 Type1=1
@@ -3458,6 +3551,8 @@ Type63=1
 Type64=1
 Type65=1
 Type66=1
+Type67=1
+Type68=1
 
 [Electrical Rules Check]
 Type1=1
@@ -3466,33 +3561,33 @@ Type3=2
 Type4=1
 Type5=2
 Type6=2
-Type7=1
+Type7=0
 Type8=1
 Type9=1
 Type10=1
 Type11=2
-Type12=2
-Type13=2
+Type12=0
+Type13=0
 Type14=1
 Type15=1
 Type16=1
 Type17=1
 Type18=1
 Type19=1
-Type20=1
-Type21=1
-Type22=1
-Type23=1
+Type20=0
+Type21=0
+Type22=0
+Type23=0
 Type24=1
 Type25=2
-Type26=2
+Type26=0
 Type27=2
 Type28=1
 Type29=1
 Type30=1
 Type31=1
 Type32=2
-Type33=2
+Type33=0
 Type34=2
 Type35=1
 Type36=2
@@ -3503,15 +3598,15 @@ Type40=2
 Type41=0
 Type42=2
 Type43=1
-Type44=1
-Type45=2
-Type46=1
-Type47=2
-Type48=2
-Type49=1
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
 Type50=2
-Type51=1
-Type52=1
+Type51=0
+Type52=0
 Type53=1
 Type54=1
 Type55=1
@@ -3519,10 +3614,10 @@ Type56=2
 Type57=1
 Type58=1
 Type59=1
-Type60=1
-Type61=2
-Type62=2
-Type63=1
+Type60=0
+Type61=0
+Type62=0
+Type63=0
 Type64=0
 Type65=2
 Type66=3
@@ -3560,7 +3655,7 @@ Type97=2
 Type98=0
 Type99=1
 Type100=2
-Type101=1
+Type101=0
 Type102=2
 Type103=2
 Type104=1
@@ -3605,6 +3700,7 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=1
 SortLocation=0
+ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
@@ -3625,6 +3721,7 @@ NetClassSeparateForBusSections=0
 [LibraryUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
+UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=0603 LED.SchLib
@@ -4113,6 +4210,7 @@ ModelUpdate41=1
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
+UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=0603-FERRITE-600Ohm.SchLib
