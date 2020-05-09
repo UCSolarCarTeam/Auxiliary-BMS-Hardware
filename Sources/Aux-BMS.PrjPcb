@@ -2146,6 +2146,23 @@ GenerateClassCluster=0
 DocumentUniqueId=RYFRUIBV
 
 [Document125]
+DocumentPath=..\AltiumLibraries\Connectors\PCB Libraries\Molex Mini-Fit Jr 1x2.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KHNMXCRW
+
+[Document126]
 DocumentPath=Dependencies\LED-0603.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2162,7 +2179,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KTPENQBU
 
-[Document126]
+[Document127]
 DocumentPath=Dependencies\LED-0603.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2179,7 +2196,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KDPTOGMG
 
-[Document127]
+[Document128]
 DocumentPath=Dependencies\LED-4SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2196,7 +2213,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GJUGGKSH
 
-[Document128]
+[Document129]
+DocumentPath=..\AltiumLibraries\Connectors\Schematic Libraries\Molex Mini-Fit Jr 1x2.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AUXYYIQV
+
+[Document130]
 DocumentPath=Dependencies\LED-4SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2213,7 +2247,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UITCAMPR
 
-[Document129]
+[Document131]
 DocumentPath=Dependencies\Silkscreen.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2230,7 +2264,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GKTQFYTD
 
-[Document130]
+[Document132]
 DocumentPath=Dependencies\Holes.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2247,7 +2281,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NQBLDWNP
 
-[Document131]
+[Document133]
 DocumentPath=Dependencies\Holes.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2264,7 +2298,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OJSMXAWW
 
-[Document132]
+[Document134]
 DocumentPath=Aux-BMS.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2281,7 +2315,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDPQTWAI
 
-[Document133]
+[Document135]
 DocumentPath=Assembler.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2298,7 +2332,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document134]
+[Document136]
 DocumentPath=Fabrication.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2315,7 +2349,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document135]
+[Document137]
 DocumentPath=Source.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2332,7 +2366,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document136]
+[Document138]
 DocumentPath=Dependencies\TI_SN65HVD1050DR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2349,7 +2383,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTACNHSM
 
-[Document137]
+[Document139]
 DocumentPath=Dependencies\TVS Diode Bi 5V.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2366,7 +2400,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FQYANAFL
 
-[Document138]
+[Document140]
 DocumentPath=..\AltiumLibraries\Connectors\PCB Libraries\Deutsch ICT Con - DT13-6P.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2383,7 +2417,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SOCYYPPF
 
-[Document139]
+[Document141]
 DocumentPath=..\AltiumLibraries\Connectors\Schematic Libraries\Deutsch ICT Con - DT13-6P.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2400,7 +2434,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KUBUPZWX
 
-[Document140]
+[Document142]
 DocumentPath=..\AltiumLibraries\Connectors\PCB Libraries\Molex Minifit 3x2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2777,7 +2811,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
